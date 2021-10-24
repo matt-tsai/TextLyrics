@@ -6,7 +6,7 @@ import lyricsgenius
 from pprint import pprint
 
 SPOTIFY_GET_CURRENT_TRACK_URL = 'https://api.spotify.com/v1/me/player/currently-playing'
-SPOTIFY_ACCESS_TOKEN = 'BQAcvg2pob-WID89gThgt8kV5fRMhVx-TV3zAAOPMbMYblq6NiLso8E9JEs7QibcvLfLoG0fCqAY9THiDEpo6FTMPv8NtAAjNcMCDM8k9qSkZESMMxLec7qo1awWTdFqeZTCWR6eNOdMfc6QiwadJDO6C8716RSbijjSIIcY'
+SPOTIFY_ACCESS_TOKEN = 'BQByoubbi3oV1bERl_ok-QOg-8MrYvQCJPb4TObzrT8o2hR85K5IBpv51SWgnt3p5RYKR_JfU5lrxIaGLcpYkJFLyYtB-tDJu23eRle3ns2BbFrQaPOCYrxzOze--sfJCe-4gayL_Nk7lYynlAc2MSFVox3Vr-C1ELPDNzvy'
 GENIUS_ACCESS_TOKEN = 'bYgIwxrrSVrNgyC9lKIXi-Q40BxI1o7pda5RgXyEeRvZjHotfizmANoX7R6zdd0Y'
 genius = lyricsgenius.Genius(GENIUS_ACCESS_TOKEN)
 
