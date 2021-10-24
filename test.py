@@ -4,7 +4,7 @@ import time
 from pprint import pprint
 
 SPOTIFY_GET_CURRENT_TRACK_URL = 'https://api.spotify.com/v1/me/player/currently-playing'
-ACCESS_TOKEN = 'BQA1f4vyN68llVs7PLaJqfmbeOUCXaTHVRaJItkxXgH6OAab9RlbFiyTCpYaKlgxuX_O6qiDyjX7nVO7hYE-3uFd9CkTDTQ'
+ACCESS_TOKEN = '[Access Token]'
 
 
 def get_current_track(access_token):
